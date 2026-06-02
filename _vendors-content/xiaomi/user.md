@@ -19,9 +19,8 @@ Another method of app locking is hidden a little deeper:
   <figure>
     <img src="/assets/img/xiaomi/xiaomi_lock_1.jpg">
     <figcaption>Open Security app → Boost speed</figcaption>
-  </figure>
-
-  <figure>
+  </ffffimgblock
+    -lc <figure>
     <img src="/assets/img/xiaomi/xiaomi_lock_2.jpg">
     <figcaption>Open the Settings cog icon</figcaption>
   </figure>
